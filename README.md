@@ -10,12 +10,14 @@ MSc Artificial Intelligence student at **Ulster University**, building productio
 
 ### 🔧 What I work with
 
-**Languages** Python, SQL, R
-**ML & AI** Scikit-learn, SHAP, MLflow, PyMC, reinforcement learning
-**Cloud & MLOps** Microsoft Azure ML, model registry, managed endpoints
-**Data** Pandas, NumPy, large-scale data cleaning, feature engineering
-**Semantic Web** Protégé, OWL, RDF, SPARQL
-**Tools** Git, Streamlit, Jupyter, Linux, Agile
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL, R |
+| **ML & AI** | Scikit-learn, SHAP, MLflow, PyMC, reinforcement learning |
+| **Cloud & MLOps** | Microsoft Azure ML, model registry, managed endpoints |
+| **Data** | Pandas, NumPy, large-scale data cleaning, feature engineering |
+| **Semantic Web** | Protégé, OWL, RDF, SPARQL |
+| **Tools** | Git, Streamlit, Jupyter, Linux, Agile |
 
 ---
 
