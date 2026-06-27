@@ -38,4 +38,5 @@ Each project below includes a README, reproducible code, and either a deployed d
 
 Belfast, UK
 mohammedsalmankhans636@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/mohammedsalmankhans/)
