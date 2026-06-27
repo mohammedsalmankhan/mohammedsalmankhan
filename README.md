@@ -8,7 +8,7 @@ MSc Artificial Intelligence student at **Ulster University**, building productio
 
 ---
 
-### 🔧 What I work with
+###  What I work with
 
 | Category | Tools |
 |---|---|
