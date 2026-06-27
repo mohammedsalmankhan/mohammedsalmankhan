@@ -1,10 +1,10 @@
-# Hi, I'm Salman 👋
+# Hi, I'm Salman 
 
 MSc Artificial Intelligence student at **Ulster University**, building production-grade ML systems with a focus on **explainability**, **MLOps**, and **applied AI in financial services**.
 
-🎓 BSc Data Science — graduated top of cohort
-📄 Co-author, *IPE Journal of Management (2025)*
-📍 Belfast, UK | Open to UK-based AI / Data Science internships and graduate roles
+ BSc Data Science — graduated top of cohort
+ Co-author, *IPE Journal of Management (2025)*
+ Belfast, UK | Open to UK-based AI / Data Science internships and graduate roles
 
 ---
 
@@ -21,7 +21,7 @@ MSc Artificial Intelligence student at **Ulster University**, building productio
 
 ---
 
-### 📌 Featured projects
+###  Featured projects
 
 Have a look at the pinned repositories below — each one ships with a README, reproducible code, and either a deployed demo or detailed result artefacts.
 
@@ -32,10 +32,10 @@ Have a look at the pinned repositories below — each one ships with a README, r
 
 ---
 
-### 📫 Get in touch
+###  Get in touch
 
-- 📧 mohammedsalmankhans636@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/) *(update with your URL)*
+-  mohammedsalmankhans636@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/mohammedsalmankhans/) 
 
 ---
 
