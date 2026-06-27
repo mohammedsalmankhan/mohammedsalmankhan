@@ -1,57 +1,41 @@
-# Hi, I'm Salman 
+# Mohammed Salman Khan
 
-MSc Artificial Intelligence student at **Ulster University**, building production-grade ML systems with a focus on **explainability**, **MLOps**, and **applied AI in financial services**.
+MSc Artificial Intelligence student at Ulster University, building production-grade machine learning systems with a focus on explainability, MLOps, and applied AI.
 
- BSc Data Science — graduated top of cohort
- Co-author, *IPE Journal of Management (2025)*
- Belfast, UK | Open to UK-based AI / Data Science internships and graduate roles
+BSc Data Science, graduated top of cohort. Co-author, IPE Journal of Management (2025). Based in Belfast, UK.
 
----
+Open to AI Engineer, Machine Learning Engineer, and Data Scientist roles across the UK.
 
-###  What I work with
+## Skills
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python, SQL, R |
-| **ML & AI** | Scikit-learn, SHAP, MLflow, PyMC, reinforcement learning |
-| **Cloud & MLOps** | Microsoft Azure ML, model registry, managed endpoints |
-| **Data** | Pandas, NumPy, large-scale data cleaning, feature engineering |
-| **Semantic Web** | Protégé, OWL, RDF, SPARQL |
-| **Tools** | Git, Streamlit, Jupyter, Linux, Agile |
+**Languages:** Python, SQL, R
 
----
+**Machine Learning & Deep Learning:** Scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers, model evaluation, reinforcement learning
 
-###  Featured projects
+**NLP & LLMs:** Natural language processing, LLM-based information extraction, prompt engineering for structured output
 
-Have a look at the pinned repositories below — each one ships with a README, reproducible code, and either a deployed demo or detailed result artefacts.
+**Explainable AI:** SHAP, LIME, model documentation and audit reporting
 
-- **Q-Learning Grid World** — tabular RL agent with SARSA comparison and value-iteration baseline
-- **Explainable Loan Default Prediction** — Streamlit app with SHAP-based audit reports
-- **Westermo MLOps Pipeline** — Azure ML deployment on 1.6M-record DevOps dataset
-- **Ontology-Driven Flood Response** — OWL/SPARQL with LLM-assisted reasoning
+**MLOps & Deployment:** Microsoft Azure Machine Learning, MLflow, model registry, managed real-time endpoints, CI/CD for ML, API-based deployment
 
----
+**Data Engineering:** Pandas, NumPy, SQL (joins, CTEs, window functions), large-scale data cleaning, feature engineering, time-series processing
 
-###  Get in touch
+**Testing & Reliability:** pytest, unit testing for ML pipelines
 
--  mohammedsalmankhans636@gmail.com
--  [LinkedIn](https://www.linkedin.com/in/mohammedsalmankhans/) 
+**Tools:** Git, Streamlit, Jupyter, Linux, Agile
 
----
+## Featured projects
 
-<sub>Currently looking for: Summer 2026 internships and 2026 graduate positions in AI/ML, data science, and cloud engineering across the UK.</sub>
+Each project below includes a README, reproducible code, and either a deployed demo or documented results.
 
-<!--
-**mohammedsalmankhan/mohammedsalmankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Westermo MLOps Pipeline** — End-to-end Azure ML deployment on a 1.64 million row industrial telemetry dataset, with full MLflow tracking and a live managed endpoint.
+- **Explainable Loan Default Prediction** — Streamlit app with SHAP-based audit reports, built for regulatory-style transparency in credit risk decisions.
+- **Customer Enquiry Triage & Cost Estimation** — Rule-based NLP pipeline that extracts structured order details from free-text customer enquiries and generates price estimates.
+- **Q-Learning Grid World** — Tabular reinforcement learning agent with a SARSA comparison and a value-iteration baseline.
+- **Ontology-Driven Flood Response** — OWL and SPARQL based knowledge model with LLM-assisted reasoning, built using Protégé.
 
-Here are some ideas to get you started:
+## Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Belfast, UK
+mohammedsalmankhans636@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohammedsalmankhans/)
