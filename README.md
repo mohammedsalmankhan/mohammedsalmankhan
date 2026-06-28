@@ -3,6 +3,7 @@
 MSc Artificial Intelligence student at Ulster University, building tested, production-grade AI systems with a focus on LLM/agent engineering, MLOps, and explainability.
 
 BSc Data Science, graduated top of cohort. Co-author, IPE Journal of Management (2025). 
+
 Based in Belfast, UK.
 
 Open to AI Engineer, Machine Learning Engineer, and Data Scientist roles across the UK.
